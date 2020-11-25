@@ -8,3 +8,5 @@ and now want to play around with the tools! The goal of this is as follows
 
 ## Thing 1: CS 188 Homework 4 (Optional Coding)
 Used Homework 4's optional coding work in order to explore the idea of the Viterbi algorithm along with how to use Bayes' nets and N-gram models to explore prediction of words and word generation. 
+
+NOTE: I duely accredit the starter code to the UC Berkeley CS 188 staff. While this repo is private, I'd like to make sure I'm accrediting the work to the right folks who made the bulk of the project. This code was obtained in Fall 2020's iteration of CS 188. 
